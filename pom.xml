@@ -3,9 +3,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.pylake</groupId>
+    <groupId>com.geely.evun</groupId>
     <artifactId>demo</artifactId>
-    <packaging>pom</packaging>
     <version>1.0.0</version>
 
     <name>spring-boot-demo</name>
@@ -20,6 +19,7 @@
     <properties>
         <spring.version>2.2.2.RELEASE</spring.version>
         <oracle.version>12.1.0.1</oracle.version>
+        <java.version>1.8</java.version>
     </properties>
 
     <dependencies>
